@@ -1,7 +1,7 @@
 {
-  "name": "watch-with",
-  "repository": "git@github.com:JuanM04/watch-with.git",
-  "author": "JuanM04 <me@juanm04.com>",
+  "name": "Ez-Watch-Youtube-Twitch-Facebook-Direct-Files-And-More",
+  "repository": "https://github.com/thisfardi/Ez-Watch-Youtube-Twitch-Facebook-Direct-Files-And-More.git",
+  "author": "mixprop <help@mixprop.us>",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
