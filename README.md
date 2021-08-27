@@ -1,6 +1,5 @@
-# WatchWith
-
-[Live app](https://watchwith.juanm04.com), hosted in [Railway](https://railway.app).
+# Ez Watch
+Visit
 
 ## Usage
 
