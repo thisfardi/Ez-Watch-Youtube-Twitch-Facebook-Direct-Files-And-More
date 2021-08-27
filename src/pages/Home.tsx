@@ -11,7 +11,7 @@ export default function HomePage() {
     <div className="w-full h-full flex justify-center items-center p-4">
       <div className="bg-gray-600 rounded-lg p-4 text-white">
         <div className="py-4">
-          <h1 className="font-bold text-4xl text-center">WatchWith</h1>
+          <h1 className="font-bold text-4xl text-center">Ez Watch</h1>
           <p className="text-center text-sm leading-tight mt-1">
             Watch media from Youtube, Twitch, Facebook, direct files and more
             synchronously
