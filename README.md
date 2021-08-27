@@ -1,2 +1,11 @@
-# Ez-Watch-Youtube-Twitch-Facebook-Direct-Files-And-More
-Watch media from Youtube, Twitch, Facebook, direct files and more synchronously
+# WatchWith
+
+[Live app](https://watchwith.juanm04.com), hosted in [Railway](https://railway.app).
+
+## Usage
+
+```bash
+$ yarn install
+$ yarn build
+$ yarn start
+```
