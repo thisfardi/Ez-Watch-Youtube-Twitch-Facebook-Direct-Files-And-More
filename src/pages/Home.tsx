@@ -40,7 +40,7 @@ export default function HomePage() {
         <a href="https://github.com/thisfardi/Ez-Watch-Youtube-Twitch-Facebook-Direct-Files-And-More" target="_blank">
           Made with
           <HeartIcon className="inline h-4 align-text-bottom px-1.5" />
-          in
+          Dev-Mixprop
           <ArgentinaIcon className="inline h-4 align-text-bottom px-1.5" />
         </a>
       </p>
