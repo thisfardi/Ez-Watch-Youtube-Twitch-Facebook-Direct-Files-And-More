@@ -1853,7 +1853,7 @@ yeast@0.1.2:
   resolved "https://registry.yarnpkg.com/yeast/-/yeast-0.1.2.tgz#008e06d8094320c372dbc2f8ed76a0ca6c8ac419"
   integrity sha1-AI4G2AlDIMNy28L47XagymyKxBk=
 
-zod@^3.0.0-beta.1:
-  version "3.0.0-beta.1"
-  resolved "https://registry.yarnpkg.com/zod/-/zod-3.0.0-beta.1.tgz#97e6e3ac83a07521f66c8cceb68225c250f9345d"
-  integrity sha512-OTmLkOJoq/PFsZfHN2GAUnFJi14iJs4Oyo6nuHzRUO2ddIgMrEdYmEIEwc1FV0BkflLDpyRFiTngXN9uy7wYpg==
+zod@3.19.1:
+  version "3.19.1"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.19.1.tgz#112f074a97b50bfc4772d4ad1576814bd8ac4473"
+  integrity sha512-LYjZsEDhCdYET9ikFu6dVPGp2YH9DegXjdJToSzD9rO6fy4qiRYFoyEYwps88OseJlPyl2NOe2iJuhEhL7IpEA==
